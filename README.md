@@ -2,7 +2,7 @@
 
 This is a forked repo from 'nguyer' who has wrapped the Minecraft official server into a docker container.  I've left nguyers original README.md below for full attribution and updated to minecraft 1.9.0.15
 
-- ShirazB
+ -- ShirazB
 
 Forked 
 Run a bedrock server in a Docker container
