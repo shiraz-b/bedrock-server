@@ -1,5 +1,9 @@
 # minecraft-bedrock
 
+09/May/19 - Updated to Minecraft Bedrock Server: https://minecraft.azureedge.net/bin-linux/bedrock-server-1.11.2.1.zip
+
+------------------------------------------------
+
 This is a forked repo from 'nguyer' who has wrapped the Minecraft official server into a docker container.  I've left nguyers original README.md below for full attribution and updated to minecraft 1.9.0.15
 
  -- ShirazB
