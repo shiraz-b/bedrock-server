@@ -1,5 +1,6 @@
 # minecraft-bedrock
 
+02/Oct/19 - Updated to Minecraft Bedrock Server: https://minecraft.azureedge.net/bin-linux/bedrock-server-1.12.1.1.zip
 09/May/19 - Updated to Minecraft Bedrock Server: https://minecraft.azureedge.net/bin-linux/bedrock-server-1.11.2.1.zip
 
 ------------------------------------------------
